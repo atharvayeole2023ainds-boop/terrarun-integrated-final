@@ -1,0 +1,10 @@
+
+> terrarun-frontend@0.1.0 dev
+> vite
+
+
+  VITE v4.5.14  ready in 321 ms
+
+  ➜  Local:   http://localhost:3001/
+  ➜  Network: use --host to expose
+5:45:01 PM [vite] hmr update /src/pages/ActivityPageEnhanced.tsx, /src/index.css

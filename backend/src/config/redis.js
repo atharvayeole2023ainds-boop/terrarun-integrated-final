@@ -1,0 +1,38 @@
+// src/config/redis.js
+const Redis = require('ioredis');
+const logger = require('../utils/logger');
+
+const redis = new Redis({
+  host: process.env.REDIS_HOST || 'localhost',
+  port: parseInt(process.env.REDIS_PORT) || 6379,
+  password: process.env.REDIS_PASSWORD || undefined,
+  retryStrategy: (times) => {
+    const delay = Math.min(times * 50, 2000);
+    return delay;
+  },
+  maxRetriesPerRequest: 3,
+});
+
+redis.on('connect', () => {
+  logger.info('Redis connected');
+});
+
+redis.on('error', (error) => {
+  logger.error('Redis error:', error);
+});
+
+redis.on('close', () => {
+  logger.warn('Redis connection closed');
+});
+
+// Helper functions
+redis.setWithExpiry = async (key, value, expirySeconds = 3600) => {
+  return redis.setex(key, expirySeconds, JSON.stringify(value));
+};
+
+redis.getJson = async (key) => {
+  const value = await redis.get(key);
+  return value ? JSON.parse(value) : null;
+};
+
+module.exports = redis;

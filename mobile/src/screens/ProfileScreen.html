@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html class="dark" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Home Dashboard Overview</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#f49d25",
+                        "background-light": "#f8f7f5",
+                        "background-dark": "#0a0a0a",
+                        "card-dark": "#1a1a1a",
+                        "card-accent": "#262626",
+                    },
+                    fontFamily: {
+                        "display": ["Plus Jakarta Sans", "sans-serif"]
+                    },
+                    borderRadius: {
+                        "DEFAULT": "1rem",
+                        "lg": "1.25rem",
+                        "xl": "1.5rem",
+                        "full": "9999px"
+                    },
+                },
+            },
+        }
+    </script>
+<style type="text/tailwindcss">
+        body {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+        }
+        .glass-effect {
+            backdrop-filter: blur(20px);
+            background: rgba(26, 26, 26, 0.85);
+        }
+        .dashboard-card {
+            @apply rounded-xl border border-white/5 bg-card-dark shadow-lg;
+        }
+        .nav-active {
+            @apply text-primary;
+        }
+        .nav-inactive {
+            @apply text-white/40;
+        }
+    </style>
+<style>
+        body {
+            min-height: 100dvh;
+        }
+    </style>
+<style>
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
+  </head>
+<body class="bg-background-light dark:bg-background-dark text-slate-900 dark:text-white min-h-screen pb-32">
+<header class="sticky top-0 z-50 glass-effect border-b border-white/5 px-4 py-3">
+<div class="flex items-center justify-between max-w-md mx-auto">
+<div class="flex items-center gap-3">
+<div class="size-10 shrink-0 overflow-hidden rounded-full ring-2 ring-primary/20">
+<img alt="User profile avatar" class="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDVy5ZLfc57fz-p2ljbcY6LtlcUXgJ_L_2dseLjF3B1l2gch49g79T3r9KTr2O0RyXsphfJNfE45BlmCCA2DkqwFzZEJ8Ihgj0ZFC68ROZ0SCGAIc3JijqXx-_djtL-ehrPumZceb3c-ncqHrdIntIK8PS39w2YdpwlEQeRca38dNMdaMy7-N8z1ZSJpNI3MLxoax3UK47A36L6_39xcCwhUe79Sps9bSP20xPokhye4S7astMzDrRhJ0pA2pstC0iRVbBoRe9f9Q"/>
+</div>
+<div class="flex flex-col">
+<h2 class="text-sm font-bold leading-tight">TerraRun</h2>
+<span class="text-[10px] uppercase tracking-widest text-primary font-extrabold">Scout League</span>
+</div>
+</div>
+<div class="flex items-center gap-2 bg-primary/10 px-3 py-1.5 rounded-full border border-primary/20">
+<span class="material-symbols-outlined text-primary text-sm" style="font-variation-settings: 'FILL' 1">stars</span>
+<p class="text-white text-sm font-bold tracking-tight">4,200 <span class="text-primary/70 text-[10px]">PTS</span></p>
+</div>
+</div>
+</header>
+<main class="max-w-md mx-auto">
+<section class="px-4 pt-6">
+<div class="flex items-center gap-5 p-1">
+<div class="relative">
+<div class="bg-gradient-to-tr from-primary to-orange-300 p-1 rounded-full shadow-lg shadow-primary/10">
+<div class="bg-card-dark rounded-full p-1">
+<img alt="Detailed user profile" class="size-20 rounded-full" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDu1uSH-d9lwdLA1dFTE6aUqxcRhs_Hup0FK5rkgKn05BQBY89Ad_rvXmlySPWUeL3FY-ye7dOptuN_jkgJ5N9GCwU8SibZUQJfzUI51UwrNS4dVbNA4r48asTYRldZRQ9JvtNXOtjMyjRRzpNU26cWzs-pPk4fk9JFCRoPczRsfnkWpZUsnR-jnGQ8R19HQqo8xjppKha2QHeNOVtt5XMAluRquRASI4a0dEyG2y5Ktd0CYHA-Px6sWFjGqcAeZd2tygRwMWLb9A"/>
+</div>
+</div>
+<div class="absolute -bottom-1 -right-1 bg-primary text-background-dark text-[10px] font-black px-2 py-0.5 rounded-full ring-4 ring-background-dark">
+                        LVL 12
+                    </div>
+</div>
+<div class="flex flex-col">
+<p class="text-white text-2xl font-extrabold tracking-tight">Scout Master</p>
+<p class="text-white/50 text-sm font-medium">Ranked #24 in Sector 7</p>
+</div>
+</div>
+</section>
+<section class="px-4 mt-4">
+<div class="dashboard-card p-4">
+<div class="flex items-end justify-between mb-3">
+<div class="flex flex-col">
+<span class="text-white/40 text-[10px] uppercase font-bold tracking-widest">Current Progress</span>
+<p class="text-white text-sm font-bold">To Level 13</p>
+</div>
+<p class="text-white text-xs font-medium">
+<span class="text-primary font-bold">4,200</span> / 5,000 <span class="text-white/30 ml-1">pts</span>
+</p>
+</div>
+<div class="h-3 w-full bg-white/5 rounded-full overflow-hidden">
+<div class="h-full bg-gradient-to-r from-primary to-orange-400 rounded-full" style="width: 84%;"></div>
+</div>
+<p class="text-primary/80 text-[11px] font-medium mt-3 flex items-center gap-1">
+<span class="material-symbols-outlined text-xs">info</span>
+                    Earn 800 more pts to unlock 'Vanguard' rank
+                </p>
+</div>
+</section>
+<div class="px-4 flex items-center justify-between mt-8 mb-4">
+<h2 class="text-white text-xl font-extrabold tracking-tight">Today's Territory</h2>
+<button class="text-primary text-xs font-bold uppercase tracking-widest">History</button>
+</div>
+<section class="px-4 grid grid-cols-2 gap-4">
+<div class="col-span-2 flex flex-col gap-2 dashboard-card p-5 relative overflow-hidden group">
+<div class="absolute -right-4 -top-4 size-24 bg-primary/10 rounded-full blur-2xl group-hover:bg-primary/20 transition-colors"></div>
+<div class="flex justify-between items-start relative z-10">
+<div>
+<p class="text-white/50 text-[10px] font-bold uppercase tracking-widest mb-1">Distance Covered</p>
+<p class="text-white tracking-tight text-4xl font-black">5.2 <span class="text-lg text-white/40">KM</span></p>
+</div>
+<div class="bg-green-500/10 px-2 py-1 rounded-lg border border-green-500/20">
+<p class="text-green-400 text-[10px] font-bold">+0.5 km Today</p>
+</div>
+</div>
+<div class="mt-4 flex items-center gap-2 relative z-10">
+<span class="material-symbols-outlined text-primary" style="font-variation-settings: 'FILL' 1">location_on</span>
+<p class="text-white/60 text-xs font-medium">Currently in Sector 7-B</p>
+</div>
+</div>
+<div class="flex flex-col gap-2 dashboard-card p-5">
+<div class="flex justify-between items-center mb-1">
+<span class="material-symbols-outlined text-primary/80" style="font-variation-settings: 'FILL' 1">grid_view</span>
+<div class="bg-green-500/10 px-1.5 py-0.5 rounded text-[10px] font-bold text-green-400">+2</div>
+</div>
+<p class="text-white/50 text-[10px] font-bold uppercase tracking-widest">Territories</p>
+<p class="text-white tracking-tight text-2xl font-black">12</p>
+</div>
+<div class="flex flex-col gap-2 dashboard-card p-5">
+<div class="flex justify-between items-center mb-1">
+<span class="material-symbols-outlined text-orange-500" style="font-variation-settings: 'FILL' 1">local_fire_department</span>
+<div class="bg-primary/10 px-1.5 py-0.5 rounded text-[10px] font-bold text-primary">🔥</div>
+</div>
+<p class="text-white/50 text-[10px] font-bold uppercase tracking-widest">Streak</p>
+<p class="text-white tracking-tight text-2xl font-black">7 <span class="text-xs text-white/40 font-bold">DAYS</span></p>
+</div>
+</section>
+<section class="px-4 mt-6">
+<div class="dashboard-card bg-card-dark/50 p-4 border-dashed border-white/10 flex items-center justify-between">
+<div class="flex -space-x-2">
+<img alt="Team member" class="size-8 rounded-full ring-2 ring-card-dark" src="https://lh3.googleusercontent.com/aida-public/AB6AXuA0s1T4SeRfRk7HV8DgPMfaqArr6eCiCnynLK_KpR87hFllLyrWwdxxFcN_Rd9cxSy5CZ2RGxfNREb3u_6rPeKgJGFMFJuWONDz0NFxdXpyXhxMbCwcoZlVk6_mSKSK-u5hz-Yy35fTIoYm4G5XDFJC-psBC8iVjCD9a8MFLc24CLUdNCO-eM5U0bOuzu9qF0erArTWonfyu5fJB-Oqniu06FmrKvYrRXYaUAQjDzZ6ue76rvW14QB1ZR3oBQj1zLeWUFicYeZzNA"/>
+<img alt="Team member" class="size-8 rounded-full ring-2 ring-card-dark" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAhbobQaYtb9TiZwOYOWshcbEEwWv3q8_1IEyv9ugdzXhaMqoXlaDnQLPLIQSyg4JsVoDW0fk3c_4237iRBe1E0TkV_XuGpQIBlIKjmualSi9s4y98BVYWrmT7NBqI3IR3ZKFFD0ZNpoHyDph8GTPOSoRDKkVA9ra9HRMAQL7iyscRGIWAWYC6GOIivqYVPP8RmQdKkJd-6daVVGi_8H-RNYkdg9dS0UdMbIof4B04neoYk9JrDQx_WY9QpCfDV98lCUXCeTYp0DA"/>
+<img alt="Team member" class="size-8 rounded-full ring-2 ring-card-dark" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBw4r1fhUHJuHOocQpT2STM71Z18fgRXyUWwez7FVnXTwsifQ_tWWg2TNp9YGXaU-MGvfrYkTVy5jJ_h5gszLAPnoxkUJ2PLOIEElkVl_fOAoygWrv2O-RSakUI6KNMubacLTF4hoUKRzXI3660DESIGWRLC0rvCkAM6QYmlQIl16ZuLDFFS6Qc3zqsz1G_7nbA_iueI6w_bpUvSx8pn8hDjAcgpX5jXfiIMwEbRwIovf05xPFHfKFQ4KwWrJMC5zHgV0TKqxwPgQ"/>
+<div class="size-8 rounded-full bg-white/5 flex items-center justify-center text-[10px] font-bold ring-2 ring-card-dark">+4</div>
+</div>
+<div class="text-right">
+<p class="text-white text-xs font-bold">Iron Legion Team</p>
+<p class="text-primary text-[10px] font-bold tracking-widest uppercase">Recruiting • 2 Slots</p>
+</div>
+</div>
+</section>
+</main>
+<div class="fixed bottom-0 left-0 right-0 z-[60] pb-8 pt-4 bg-gradient-to-t from-background-dark via-background-dark/95 to-transparent">
+<div class="max-w-md mx-auto px-6">
+<nav class="glass-effect rounded-[32px] border border-white/10 px-2 py-2 flex items-center justify-between shadow-2xl relative">
+<button class="flex-1 flex flex-col items-center gap-1 nav-inactive transition-colors py-2">
+<span class="material-symbols-outlined text-[26px]">map</span>
+<span class="text-[9px] font-bold uppercase tracking-tight">Map</span>
+</button>
+<button class="flex-1 flex flex-col items-center gap-1 nav-inactive transition-colors py-2">
+<span class="material-symbols-outlined text-[26px]">explore</span>
+<span class="text-[9px] font-bold uppercase tracking-tight">Activity</span>
+</button>
+<div class="flex-1 flex justify-center -mt-10">
+<button class="size-16 bg-primary rounded-full flex items-center justify-center shadow-[0_8px_25px_rgba(244,157,37,0.5)] active:scale-95 transition-transform border-4 border-background-dark ring-2 ring-white/5">
+<span class="material-symbols-outlined text-white text-3xl font-bold">add</span>
+</button>
+</div>
+<button class="flex-1 flex flex-col items-center gap-1 nav-inactive transition-colors py-2">
+<span class="material-symbols-outlined text-[26px]">groups</span>
+<span class="text-[9px] font-bold uppercase tracking-tight">Clans</span>
+</button>
+<button class="flex-1 flex flex-col items-center gap-1 nav-active transition-colors py-2">
+<span class="material-symbols-outlined text-[26px]" style="font-variation-settings: 'FILL' 1">person</span>
+<span class="text-[9px] font-bold uppercase tracking-tight">Me</span>
+</button>
+</nav>
+</div>
+</div>
+
+</body></html>
