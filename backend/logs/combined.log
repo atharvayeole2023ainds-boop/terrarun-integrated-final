@@ -2699,3 +2699,667 @@
 {"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:21:11"}
 {"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:21:13"}
 {"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:21:13"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:21:15"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:21:15"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:21:17"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:21:17"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:21:19"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:21:19"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:21:22"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:21:22"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:21:24"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:21:24"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:21:26"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:21:26"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:21:28"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:21:28"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:21:30"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:21:30"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:21:32"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:21:32"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:21:34"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:21:34"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:21:36"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:21:36"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:21:38"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:21:38"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:21:40"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:21:40"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:21:42"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:21:42"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:21:44"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:21:44"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:21:46"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:21:46"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:21:48"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:21:48"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:21:50"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:21:50"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:21:52"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:21:52"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:21:54"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:21:54"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:21:56"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:21:56"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:21:58"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:21:58"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:22:00"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:22:00"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:22:02"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:22:02"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:22:04"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:22:04"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:22:06"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:22:06"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:22:08"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:22:08"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:22:10"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:22:10"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:22:12"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:22:12"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:22:14"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:22:14"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:22:16"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:22:16"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:22:18"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:22:18"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:22:20"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:22:20"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:22:22"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:22:22"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:22:24"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:22:24"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:22:26"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:22:26"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:22:28"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:22:28"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:22:30"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:22:30"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:22:32"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:22:32"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:22:34"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:22:34"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:22:36"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:22:36"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:22:38"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:22:38"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:22:40"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:22:40"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:22:42"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:22:42"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:22:44"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:22:44"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:22:46"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:22:46"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:22:48"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:22:48"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:22:50"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:22:50"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:22:52"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:22:52"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:22:54"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:22:54"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:22:56"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:22:56"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:22:58"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:22:58"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:23:00"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:23:00"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:23:02"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:23:02"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:23:04"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:23:04"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:23:06"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:23:06"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:23:08"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:23:08"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:23:10"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:23:10"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:23:12"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:23:12"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:23:14"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:23:14"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:23:16"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:23:16"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:23:18"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:23:18"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:23:20"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:23:20"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:23:22"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:23:22"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:23:24"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:23:24"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:23:26"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:23:26"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:23:28"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:23:28"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:23:30"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:23:30"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:23:32"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:23:32"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:23:34"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:23:34"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:23:36"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:23:36"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:23:38"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:23:38"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:23:40"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:23:40"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:23:42"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:23:42"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:23:44"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:23:44"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:23:46"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:23:46"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:23:48"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:23:48"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:23:50"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:23:50"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:23:52"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:23:52"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:23:54"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:23:54"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:23:56"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:23:56"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:23:58"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:23:58"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:24:00"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:24:00"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:24:02"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:24:02"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:24:04"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:24:04"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:24:06"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:24:06"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:24:08"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:24:08"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:24:10"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:24:10"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:24:12"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:24:12"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:24:14"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:24:14"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:24:16"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:24:16"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:24:18"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:24:18"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:24:20"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:24:20"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:24:22"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:24:22"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:24:24"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:24:24"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:24:26"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:24:26"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:24:28"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:24:28"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:24:30"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:24:30"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:24:32"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:24:32"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:24:34"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:24:34"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:24:36"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:24:36"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:24:38"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:24:38"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:24:40"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:24:40"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:24:42"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:24:42"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:24:44"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:24:44"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:24:46"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:24:46"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:24:48"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:24:48"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:24:50"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:24:50"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:24:52"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:24:52"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:24:54"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:24:54"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:24:56"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:24:56"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:24:58"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:24:58"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:25:00"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:25:00"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:25:02"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:25:02"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:25:04"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:25:04"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:25:06"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:25:06"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:25:08"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:25:08"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:25:10"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:25:10"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:25:12"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:25:12"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:25:14"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:25:14"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:25:16"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:25:16"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:25:18"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:25:18"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:25:20"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:25:20"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:25:22"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:25:22"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:25:24"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:25:24"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:25:26"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:25:26"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:25:28"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:25:28"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:25:30"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:25:30"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:25:32"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:25:32"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:25:34"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:25:34"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:25:36"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:25:36"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:25:38"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:25:38"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:25:40"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:25:40"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:25:42"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:25:42"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:25:44"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:25:44"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:25:46"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:25:46"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:25:48"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:25:48"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:25:50"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:25:50"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:25:52"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:25:52"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:25:54"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:25:54"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:25:56"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:25:56"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:25:58"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:25:58"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:26:00"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:26:00"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:26:02"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:26:02"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:26:04"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:26:04"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:26:06"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:26:06"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:26:08"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:26:08"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:26:10"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:26:10"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:26:12"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:26:12"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:26:14"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:26:14"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:26:16"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:26:16"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:26:18"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:26:18"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:26:20"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:26:20"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:26:22"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:26:22"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:26:24"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:26:24"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:26:26"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:26:26"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:26:28"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:26:28"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:26:30"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:26:30"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:26:32"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:26:32"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:26:34"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:26:34"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:26:36"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:26:36"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:26:38"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:26:38"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:26:40"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:26:40"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:26:42"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:26:42"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:26:44"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:26:44"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:26:46"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:26:46"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:26:48"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:26:48"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:26:50"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:26:50"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:26:52"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:26:52"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:26:54"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:26:54"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:26:56"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:26:56"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:26:58"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:26:58"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:27:00"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:27:00"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:27:02"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:27:02"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:27:04"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:27:04"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:27:06"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:27:06"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:27:08"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:27:08"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:27:10"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:27:10"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:27:12"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:27:12"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:27:14"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:27:14"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:27:16"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:27:16"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:27:18"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:27:18"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:27:20"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:27:20"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:27:22"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:27:22"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:27:24"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:27:24"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:27:26"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:27:26"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:27:28"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:27:28"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:27:30"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:27:30"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:27:32"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:27:32"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:27:34"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:27:34"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:27:36"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:27:36"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:27:38"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:27:38"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:27:40"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:27:40"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:27:42"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:27:42"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:27:44"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:27:44"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:27:46"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:27:46"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:27:48"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:27:48"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:27:50"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:27:50"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:27:52"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:27:52"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:27:54"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:27:54"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:27:56"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:27:56"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:27:58"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:27:58"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:28:00"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:28:00"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:28:02"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:28:02"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:28:04"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:28:04"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:28:06"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:28:06"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:28:08"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:28:08"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:28:10"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:28:10"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:28:12"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:28:12"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:28:14"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:28:14"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:28:16"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:28:16"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:28:18"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:28:18"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:28:20"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:28:20"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:28:22"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:28:22"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:28:24"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:28:24"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:28:26"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:28:26"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:28:28"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:28:28"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:28:30"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:28:30"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:28:32"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:28:32"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:28:34"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:28:34"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:28:36"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:28:36"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:28:38"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:28:38"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:28:40"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:28:40"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:28:42"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:28:42"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:28:44"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:28:44"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:28:46"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:28:46"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:28:48"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:28:48"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:28:50"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:28:50"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:28:52"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:28:52"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:28:54"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:28:54"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:28:56"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:28:56"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:28:58"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:28:58"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:29:00"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:29:00"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:29:02"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:29:02"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:29:04"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:29:04"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:29:06"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:29:06"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:29:08"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:29:08"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:29:10"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:29:10"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:29:12"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:29:12"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:29:14"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:29:14"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:29:16"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:29:16"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:29:18"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:29:18"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:29:21"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:29:21"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:29:23"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:29:23"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:29:25"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:29:25"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 14:29:27"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 14:29:27"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:10:37"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:10:37"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:10:39"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:10:39"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:10:41"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:10:41"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:10:43"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:10:43"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:10:45"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:10:45"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:10:47"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:10:47"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:10:49"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:10:49"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:10:51"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:10:51"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:10:53"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:10:53"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:10:56"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:10:56"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:10:58"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:10:58"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:11:00"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:11:00"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:11:02"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:11:02"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:11:04"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:11:04"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:11:06"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:11:06"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:11:08"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:11:08"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:11:10"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:11:10"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:11:12"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:11:12"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:11:14"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:11:14"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:11:16"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:11:16"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:11:18"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:11:18"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:11:20"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:11:20"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:11:22"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:11:22"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:11:24"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:11:24"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:11:26"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:11:26"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:11:28"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:11:28"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:11:30"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:11:30"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:11:32"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:11:32"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:11:34"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:11:34"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:11:36"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:11:36"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:11:38"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:11:38"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:11:40"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:11:40"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:11:42"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:11:42"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:11:44"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:11:44"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:11:46"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:11:46"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:11:48"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:11:48"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:11:50"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:11:50"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:11:52"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:11:52"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:11:54"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:11:54"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:11:56"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:11:56"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:11:58"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:11:58"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:12:00"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:12:00"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:12:02"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:12:02"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:12:04"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:12:04"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:12:06"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:12:06"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:12:08"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:12:08"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:12:10"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:12:10"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:12:12"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:12:12"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:12:14"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:12:14"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:12:16"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:12:16"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:12:18"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:12:18"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:12:20"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:12:20"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:12:22"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:12:22"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:12:24"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:12:24"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:12:26"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:12:26"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:12:28"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:12:28"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:12:30"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:12:30"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:12:32"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:12:32"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:12:34"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:12:34"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:12:36"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:12:36"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:12:38"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:12:38"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:12:40"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:12:40"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:12:42"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:12:42"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:12:44"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:12:44"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:12:46"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:12:46"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:12:48"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:12:48"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:12:50"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:12:50"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:12:52"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:12:52"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:12:54"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:12:54"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:12:56"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:12:56"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:12:58"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:12:58"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:13:00"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:13:00"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:13:02"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:13:02"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:13:04"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:13:04"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:13:06"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:13:06"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:13:08"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:13:08"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:13:10"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:13:10"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:13:12"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:13:12"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:13:14"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:13:14"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:13:16"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:13:16"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:13:18"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:13:18"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:13:20"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:13:20"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:13:22"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:13:22"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:13:24"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:13:24"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:13:26"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:13:26"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","service":"terrarun-api","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","timestamp":"2026-02-08 15:13:28"}
+{"level":"warn","message":"Redis connection closed","service":"terrarun-api","timestamp":"2026-02-08 15:13:28"}
