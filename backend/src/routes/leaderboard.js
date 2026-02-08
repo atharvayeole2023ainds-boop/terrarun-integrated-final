@@ -12,4 +12,3 @@ router.get('/global', catchAsync(async (req, res) => {
 }));
 
 module.exports = router;
-'@ | Out-File leaderboards.js -Encoding utf8

@@ -1,26 +1,39 @@
-
+// src/routes/teams.js
 const express = require('express');
 const { catchAsync } = require('../middleware/errorHandler');
 const { authenticate } = require('../middleware/auth');
 const db = require('../config/database');
+
 const router = express.Router();
 
-router.get('/balance', authenticate, catchAsync(async (req, res) => {
-  const balance = await db.one(
-    'SELECT terracoins_balance FROM users WHERE id = $1',
-    [req.user.id], u => u.terracoins_balance
-  );
-  res.json({ success: true, data: { balance } });
+/**
+ * GET /api/teams
+ * List all teams
+ */
+router.get('/', authenticate, catchAsync(async (req, res) => {
+  const teams = await db.any('SELECT * FROM teams WHERE is_public = true LIMIT 50');
+  res.json({
+    success: true,
+    data: { teams }
+  });
 }));
 
-router.get('/transactions', authenticate, catchAsync(async (req, res) => {
-  const transactions = await db.any(
-    `SELECT * FROM vault_transactions 
-     WHERE user_id = $1 ORDER BY created_at DESC LIMIT 50`,
+/**
+ * GET /api/teams/me
+ * Get current user's team
+ */
+router.get('/me', authenticate, catchAsync(async (req, res) => {
+  const team = await db.oneOrNone(
+    `SELECT t.* FROM teams t
+     JOIN team_members tm ON t.id = tm.team_id
+     WHERE tm.user_id = $1`,
     [req.user.id]
   );
-  res.json({ success: true, data: { transactions } });
+  
+  res.json({
+    success: true,
+    data: { team }
+  });
 }));
 
 module.exports = router;
-'@ | Out-File vault.js -Encoding utf8

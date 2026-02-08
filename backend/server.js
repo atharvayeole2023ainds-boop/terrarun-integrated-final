@@ -26,17 +26,24 @@ app.get('/api/healthz', (req, res) => {
 });
 
 // Mount routes
-try {
-  app.use('/api/auth', require('./src/routes/auth'));
-  app.use('/api/activities', require('./src/routes/activities'));
-  app.use('/api/territories', require('./src/routes/territories'));
-  app.use('/api/teams', require('./src/routes/teams'));
-  app.use('/api/leaderboard', require('./src/routes/leaderboard'));
-  app.use('/api/users', require('./src/routes/users'));
-  app.use('/api/vault', require('./src/routes/vault'));
-} catch (err) {
-  logger.warn('Some routes failed to load at startup:', { message: err.message });
-}
+const routes = [
+  ['/api/auth', './src/routes/auth'],
+  ['/api/activities', './src/routes/activities'],
+  ['/api/territories', './src/routes/territories'],
+  ['/api/teams', './src/routes/teams'],
+  ['/api/leaderboard', './src/routes/leaderboard'],
+  ['/api/users', './src/routes/users'],
+  ['/api/vault', './src/routes/vault']
+];
+
+routes.forEach(([path, modulePath]) => {
+  try {
+    app.use(path, require(modulePath));
+    logger.info(`Mounted route: ${path}`);
+  } catch (err) {
+    logger.error(`Failed to mount route ${path}:`, { message: err.message, stack: err.stack });
+  }
+});
 
 // 404
 app.use(notFoundHandler);

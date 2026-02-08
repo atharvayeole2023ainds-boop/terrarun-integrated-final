@@ -1,10 +1,14 @@
-
+// src/routes/vault.js
 const express = require('express');
 const { catchAsync } = require('../middleware/errorHandler');
 const { authenticate } = require('../middleware/auth');
 const db = require('../config/database');
+
 const router = express.Router();
 
+/**
+ * GET /api/vault/balance
+ */
 router.get('/balance', authenticate, catchAsync(async (req, res) => {
   const balance = await db.one(
     'SELECT terracoins_balance FROM users WHERE id = $1',
@@ -13,6 +17,9 @@ router.get('/balance', authenticate, catchAsync(async (req, res) => {
   res.json({ success: true, data: { balance } });
 }));
 
+/**
+ * GET /api/vault/transactions
+ */
 router.get('/transactions', authenticate, catchAsync(async (req, res) => {
   const transactions = await db.any(
     `SELECT * FROM vault_transactions 
@@ -23,5 +30,3 @@ router.get('/transactions', authenticate, catchAsync(async (req, res) => {
 }));
 
 module.exports = router;
-'@
-| Out-File vault.js -Encoding utf8
