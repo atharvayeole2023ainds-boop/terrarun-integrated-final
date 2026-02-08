@@ -1,4 +1,4 @@
-@'
+
 const express = require('express');
 const { catchAsync } = require('../middleware/errorHandler');
 const { authenticate } = require('../middleware/auth');
